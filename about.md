@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+### What is NcVP?
+
 Some information about you!
 
 ### More Information
